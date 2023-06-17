@@ -1,0 +1,2 @@
+Name of Employee 1=sanskar	 Salary=1000
+Name of Employee 2=sambhav	 Salary=1200
